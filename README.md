@@ -4,6 +4,8 @@
 
 This file is the supplementary audio files for the paper "Microphone Aligned Continuous Wearable Device-related Transfer Function:  Efficient Modeling and Measurements" submitted to Hands-free Speech Communication and Microphone Arrays (HSCMA) workshop 2024.
 
+Paper: https://ieeexplore.ieee.org/abstract/document/10625970
+
 The folders contain audio files both input and outputs of the speech enhancement application using (i) the MVDR [1] and (ii) the subspace hybrid (SS-Hybrid) [2] beamforming methods. 
 
 
